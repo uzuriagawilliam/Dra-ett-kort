@@ -1,0 +1,56 @@
+.header{
+height: 10rem;
+background-color: #154890;
+color: #FF6600;
+text-align: center;
+padding-top: 3rem;
+}
+body{
+  background-color: #ffffff;
+}
+.mainCon{
+  background-color: #F5EDE3;
+  min-height: 40rem;  
+}
+.footer{
+  background-color: #E1D4C0;
+  min-height: 2rem;
+  text-align: center;
+  color:#154890;
+}
+.inputDiv{
+  margin-top: 2rem;  
+}
+#git-output{
+  height: 316px;
+  width: 228px;
+  
+}
+.draKort{
+  align-items: center;
+  border: #ffffff;
+  height: 20rem;
+  width: 20rem; 
+}
+.center {
+  padding: 50px 0;
+  border: 3px solid green;
+  width: 24rem;
+  margin-left: 2rem;
+}
+.vertical-center {
+  margin: 20;
+  position: absolute;
+  top: 50%;
+  left: 45%;  
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+.cont {
+  height: 200px;
+  width: 24rem;
+  position: relative;  
+}
+.separator{
+  width: 12rem;
+}
